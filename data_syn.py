@@ -15,7 +15,6 @@ def load_Synergydata(txt_file_dir):
     print("Loading SAMPLES...")
 
     def data_loader(path):
-
         all_files = glob.glob(os.path.join(path, "*.txt"))
         data_list = []
         for f in tqdm(all_files):
