@@ -150,7 +150,6 @@ class tranditional_model_data:
         if shuffle_cells:
             cell_ids = np.arange(len(self.x_train))
             np.random.shuffle(cell_ids)
-
             self.x_train1 = []
             for x in cell_ids:
                 self.x_train1.append(self.x_train[x])

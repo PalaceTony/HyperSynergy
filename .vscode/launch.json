@@ -5,10 +5,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Representation Learning",
+      "name": "generative_net",
       "type": "debugpy-old",
       "request": "launch",
-      "program": "representation_learning.py",
+      "program": "train_few_shot.py",
       "console": "integratedTerminal",
       "justMyCode": true
     }
