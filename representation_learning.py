@@ -51,11 +51,11 @@ def predicting(model, device, loader, loader0, total_labels_p, total_preds_p):
 if __name__ == "__main__":
     cuda_name = "cuda:0"
     print("cuda_name:", cuda_name)
-    TRAIN_BATCH_SIZE = 500
+    TRAIN_BATCH_SIZE = 1000
     VAL_BATCH_SIZE = 1024
     LR = 0.0001
     LOG_INTERVAL = 10
-    NUM_EPOCHS = 500
+    NUM_EPOCHS = 1
     # few_shot setting or zero_shot setting data
     data_path = "./data/data_few_zero_rich"
 
