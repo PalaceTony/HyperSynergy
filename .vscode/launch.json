@@ -6,10 +6,11 @@
   "configurations": [
     {
       "name": "Representation Learning",
-      "type": "debugpy",
+      "type": "debugpy-old",
       "request": "launch",
       "program": "representation_learning.py",
-      "console": "integratedTerminal"
+      "console": "integratedTerminal",
+      "justMyCode": true
     }
   ]
 }
