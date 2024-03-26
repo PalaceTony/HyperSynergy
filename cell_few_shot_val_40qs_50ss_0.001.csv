@@ -14,3 +14,33 @@ epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
 epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
 "Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
 epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
+"Experimental details: 50way40shot , with 50 tasks, test_batch is30,method is train 50-40 ,21 cell ,layer,dim=1,inner learning rate = 0.1,dim=128 "
+epoch,val_c_loss,val_c_rmse,val_c_spearman,val_c_pearson,val_c_r2
